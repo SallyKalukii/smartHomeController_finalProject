@@ -63,4 +63,3 @@
    - Challenge: Maintaining clean and organized code structure
    - Solution: Separated classes into logical packages and followed design patterns
 
-The system successfully implements all four design patterns to create a flexible, maintainable, and extensible smart home control system. Each pattern serves a specific purpose in making the system more robust and easier to maintain.
